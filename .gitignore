@@ -1,0 +1,7 @@
+__pycache__/
+gnn-env/
+.vs/
+.ipynb_checkpoints/
+Datasets/
+Checkpoints/
+.vs/
