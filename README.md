@@ -24,7 +24,7 @@ Install [PyTorch](https://pytorch.org/)
 
 ```
 
-pip3 install torch --index-url https://download.pytorch.org/whl/cu128
+pip3 install torch --index-url https://download.pytorch.org/whl/cu129
 
 ```
 
@@ -32,7 +32,7 @@ Install [PyTorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/i
 
 ```
 pip install torch_geometric
-pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.7.0+cu128.html
+pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.8.0+cu129.html
 
 ```
 
